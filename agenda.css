@@ -1,0 +1,90 @@
+#bodyun{
+background:linear-gradient(70deg,rgb(123, 221, 221),rgb(140, 235, 238, 0.144))
+
+
+}
+
+table{
+    justify-content: center;
+    background-size:1500px;
+    font-family:Arial, Helvetica, sans-serif ;
+    color: rgb(0, 0, 0);
+    font-size: 120%;
+    font-weight: 500;
+    
+    border-style: ridge;
+    border-color:black;
+}
+
+th
+{
+width: 300px
+;
+
+}
+
+#jours
+{
+background-color: royalblue;
+
+}
+
+#w1,#w2,#w3,#w4,#w5,#w6{
+background-color: rgb(214, 113, 113);
+text-align: center;
+}
+
+#francais
+{
+background-color: sandybrown;
+}
+
+#workingun{
+
+text-align: center;
+background-color: rgb(214, 113, 113);
+}
+
+#réveil{
+    text-align: center;
+    background-color: purple;
+}
+
+#workingdeux{
+
+    text-align: center;
+    background-color: rgb(214, 113, 113);
+
+}
+#repas{
+text-align: center;
+background-color: red;
+}
+
+#om{
+    background-color: steelblue;
+}
+
+header{
+    text-align: center;
+    background-color:rgb(8, 185, 185);
+    border-style:solid;
+    }
+    
+    
+#bodydeux{
+    background:linear-gradient(rgb(134, 133, 133), grey) ;
+    
+    }
+    
+    
+    .block{
+        margin:10%;
+        width: 20%;
+        display:column;
+        text-align: center;
+        border-style: ridge;
+        border-color:black;
+    
+    }
+    
